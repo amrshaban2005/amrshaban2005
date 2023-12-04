@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**amrshaban2005/amrshaban2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary:
 
-Here are some ideas to get you started:
+Experienced IT professional with strong leadership and relationship-building skills. Proficient in Software Development, Solutions Architecture, System Analysis, Technical Leadership, and Project Management (PMP Certified).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Highly skilled Blockchain Engineer in Solidity, Ethereum, and Web3. Specialized in designing and developing robust decentralized applications (DAPPs) and smart contracts.
+
+## Skills:
+
+- **Programming/Backend:**
+  - Solidity, Go, Node.js, Express.js, C#, JavaScript, TypeScript
+
+- **Databases:**
+  - SQL, NoSQL
+
+- **Blockchain Technology:**
+  - Ethereum, Hyperledger Fabric, DeFi, Foundry, Hardhat, Truffle, Ganache, OpenZeppelin, Web3.js, Ethers.js, Mocha, Chai, Truffle assertions, Tenderly, IPFS, Slither, Solhin, NFT, Gas optimization, Security
+
+- **DevOps:**
+  - Docker, Implementing CI/CD
