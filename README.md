@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Summary:
 
 Experienced IT professional with strong leadership and relationship-building skills. Proficient in Software Development, Solutions Architecture, System Analysis, Technical Leadership, and Project Management (PMP Certified).
