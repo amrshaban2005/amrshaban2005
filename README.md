@@ -1,1 +1,1 @@
-Blockchain Backend • Solidity • Smart Contracts • DeFi
+Blockchain • Backend • Solidity • Smart Contracts • DeFi
