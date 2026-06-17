@@ -1,1 +1,1 @@
-Blockchain • Backend • Solidity • Smart Contracts • DeFi
+Backend • Golang • Blockchain • Smart Contracts • Solidity
