@@ -1,3 +1,3 @@
-Backend Engineering • Go (Golang) • Microservices • Distributed Systems • REST & gRPC APIs • Node.js • TypeScript • C#/.NET
+Full Stack Engineer • Go (Golang) • React • Node.js • TypeScript • C#/.NET • Microservices • Distributed Systems • REST & gRPC APIs
 
-Blockchain Backend • Smart Contract Development • Solidity • EVM
+Blockchain • Smart Contract Development • Solidity • EVM
